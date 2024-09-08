@@ -1,31 +1,18 @@
-# Este é o nosso README padrão para novos projetos DevHatt! Não se esqueça de remover o que for desnecessário para o seu projeto e verificar [Código de Conduta](./docs/CODE_OF_CONDUCT.md), [Contribuição](./docs/CONTRIBUTING.md), [Flow Issue](./docs/FLOWISSUE.md), [StyleGuide](./docs/STYLEGUIDE.md) e também os templates de actions dentro da pasta .github
+# DevHatt Infra 💻
 
-## Algumas partes são obrigatórios nos projetos como: Banner do projeto, Introdução do projeto, Explicação do projeto,Como contribuir, Como rodar o projeto,Tirar dúvidas, Regras, e Redes sociais
 [![Discord Server](https://img.shields.io/discord/308323056592486420?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/devhatt)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DevHatt?style=social)](https://twitter.com/DevHatt)
 [![GitHub Commit Activity (Week)](https://img.shields.io/github/commit-activity/w/devhatt/octopost)](https://github.com/devhatt/octopost/pulse)
 [![GitHub Contributors](https://img.shields.io/github/contributors/devhatt/octopost)](https://github.com/devhatt/octopost/contributors)
 [![GitHub stars](https://img.shields.io/github/stars/devhatt/octopost.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/devhatt/octopost/stargazers/)
 
-[adicione badges conforme necessario, não esqueça das badges de stack do projeto]
-
-# [LEMBRE-SE DE VERIFICAR O BADGE DE COMMIT ACTIVITY, CONTRIBUTOR E STARS, ELES SÃO ATRELADOS AO LINK DO PROJETO ENTÃO PRECISA ALTERAR PARA CADA UM]
-
-[BANNER DO PROJETO]
-
-[Introdução sobre o projeto]
-
-## Esse projeto é e sempre será open source como parte do programa de mentoria da comunidade [Devhatt](https://github.com/devhatt), contribuições são completamente bem vindas e incentivadas!
-
-[Explicação sucinta do que o projeto faz e qual seu objetivo]![image](https://github.com/devhatt/repo-padrao/assets/76929097/d9546347-1a2e-4c84-826e-4d36726011a3)
-
+## Esse projeto é e sempre será open source como parte do programa de mentoria da comunidade [DevHatt](https://github.com/devhatt), contribuições são completamente bem vindas e incentivadas!
 
 [**Junte-se a nós na DevHatt e transforme sua paixão por tecnologia em impacto real!**](https://discord.gg/devhatt)
 
 ## Índice
 
 - [Projeto](#projeto)
-- [Como rodar](#como-rodar)
 - [Tirar Dúvidas](#tirar-dúvidas)
 - [Como Contribuir](#como-contribuir)
 - [Regras](#regras)
@@ -33,22 +20,7 @@
 
 ## Projeto
 
-[Explicação sobre o Projeto]
-
-[Oque o projeto é? Qual problema ele resolve? Quais techs usadas? E etc]
-
-[Modelo de negocio por cima, por exemplo octopost: aplicação para resolver problema de multiplas plataformas de rede social, petdex: aplicação para centralizar e facilitar busca por pets. Explique o publico alvo e estratégia de monetização]
-
-## Como rodar
-
-[Explicação sobre como rodar o projeto, como instalar dependências e etc]
-
-[Existe alguma dependencia no sistema operacional? existe algum motivo especial para usar as libs que usamos? existe alguma dependencia que precisa ser instalada de maneira especial? detalhe aqui]
-
-
-## Estudos
-
-[Adicione aqui documentações e canal de MATERIAL para facilitar na busca por conteudo do oque é utlizado no projeto]
+Este repositório abriga todas as configurações de IaC, Scripts e configurações para provisionamento de infra, DBs, Load Balancers, etc.
 
 ## Tirar Dúvidas
 
